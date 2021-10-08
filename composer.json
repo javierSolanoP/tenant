@@ -1,0 +1,12 @@
+{
+    "name": "laravell/tenant",
+    "description": "Controlador de la tabla Tenant",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravell\\Tenant\\": "src/"
+        }
+    },
+    "require": {}
+}
